@@ -1,5 +1,7 @@
 # Buddhism-core Scripture
+
 ## Short Description 
+
 *I want to combine the visual aesthetics of Buddhist-inspired imagery with the Liminal Space style, ncorporating dreamlike, surreal, nostalgic, and cyber-psychedelic characteristics, while also carrying a sense of heaven or distorted memory.
 
 Through hazy, soft-focus visuals with strong filter effects, along with the visualization of text and imagery, I aim to create an interplay between reality and illusion. The images evoke a surreal atmosphere that feels “both familiar and unfamiliar,” like fragments of a dream, conveying a sense of dissociation, out-of-body experience, or drifting between parallel worlds.* 
@@ -53,12 +55,12 @@ Key libraries used include:
 
    jupyter notebook notebook.ipynb
 
-5. Run all cells in the notebook to see the interactive sketch.
+5. Run all cells in the notebook to see the interactive sketch.*
 
-* 
+    
 ## Requirements 
-*
-To run this project, you will need:
+
+*To run this project, you will need:
 
 - **Python 3.10+**
 - **Conda** (optional but recommended for managing the environment)
@@ -70,23 +72,23 @@ To run this project, you will need:
   - matplotlib (if used in your Notebook)
 - **Development Environment**:
   - VS Code (recommended) or any text editor that supports Python
-- **Operating System**: Windows, macOS, or Linux
-* 
+- **Operating System**: Windows, macOS, or Linux*
+
 
  
 ## Credits / Acknowledgements 
-*
-- **Author**: Rui Qi Xiong
-- Inspiration for the visuals came from Pinterest, specifically the works of the user **Человечина** (Buddhism-Core images).
-- The textual content in the Notebook is sourced from the Buddhist scripture **Diamond Sutra **.
-- Thanks to the **py5canvas community** for documentation and support.* 
+
+*- **Author**: Rui Qi Xiong
+ - Inspiration for the visuals came from Pinterest, specifically the works of the user **Человечина** (Buddhism-Core images).
+ - The textual content in the Notebook is sourced from the Buddhist scripture **Diamond Sutra **.
+ - Thanks to the **py5canvas community** for documentation and support.* 
 
 ## Repo
-*
-https://github.com/ruiqixiong7/Buddhism-core-Scripture-1.git *
+
+*https://github.com/ruiqixiong7/Buddhism-core-Scripture-1.git *
 
 ## Contact Info
-*
-Social:https://www.instagram.com/rikiriki48_?igsh=MWhyZGR4OXMzMTZrMg%3D%3D&utm_source=qr
-Email:rxion002@gold.ac.uk
+
+*Social:https://www.instagram.com/rikiriki48_?igsh=MWhyZGR4OXMzMTZrMg%3D%3D&utm_source=qr
+ Email:rxion002@gold.ac.uk*
 
