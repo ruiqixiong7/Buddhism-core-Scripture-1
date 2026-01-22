@@ -28,27 +28,30 @@ Key libraries used include:
 
 
 ## How to Run / Install 
+
 *Follow these steps to run the project:
 
 1. Clone this repository:
  
    git clone https://github.com/yourusername/midnight_convenient_store.git
-Navigate to the project folder:
+2. Navigate to the project folder:
 
 cd Buddhism-core scripture
 (Recommended) Create and activate a new Conda environment:
 
 conda create -n py5_env python=3.10
 conda activate py5_env
-Install required Python libraries:
+3. Install required Python libraries:
 
 pip install py5canvas py5 Or, if the repository includes a requirements.txt:
 
 pip install -r requirements.txt
-Launch the Jupyter Notebook:
+
+4. Launch the Jupyter Notebook:
 
 jupyter notebook notebook.ipynb
-Run all cells in the notebook to see the interactive sketch.
+
+5.Run all cells in the notebook to see the interactive sketch.
 
 * 
 ## Requirements 
