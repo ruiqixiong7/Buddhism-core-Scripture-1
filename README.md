@@ -20,13 +20,11 @@ They stress maintaining inner tranquillity and breaking free from attachments to
 Amidst the recent surge in internet aesthetics, the concept of ‘Nuclear Aesthetics’ has emerged to commemorate certain cherished aspects of the past.Through creative reinterpretations and designs of bygone elements, it evokes a longing to traverse time and revisit those bygone days. A small but growing contingent of ‘Buddhist-core’ enthusiasts has also emerged. They craft blurred, dreamlike photographs of Buddhist statues from the millennium era, fostering appreciation and understanding of this cultural tradition. This movement carries a sense of wistful longing—a yearning to preserve the simplicity of bygone eras amidst our era of rapid technological advancement.* 
 
 ## Technology Used
-*This project was created using **py5canvas** in a **Jupyter Notebook** environment.  Development was done in **VS Code**, and the Python environment is managed using **Conda**
-.  
+
+*This project was created using **py5canvas** in a **Jupyter Notebook** environment. Development was done in **VS Code**, and the Python environment is managed using **Conda**.
 Key libraries used include:
-- 
-py5canvas
-- 
-py5*
+- py5
+- py5canvas*
 
 
 ## How to Run / Install 
@@ -78,4 +76,12 @@ To run this project, you will need:
 - The textual content in the Notebook is sourced from the Buddhist scripture **Diamond Sutra **.
 - Thanks to the **py5canvas community** for documentation and support.* 
 
+## Repo
+*
+https://github.com/ruiqixiong7/Buddhism-core-Scripture-1.git *
+
+## Contact Info
+*
+Social:https://www.instagram.com/rikiriki48_?igsh=MWhyZGR4OXMzMTZrMg%3D%3D&utm_source=qr
+Email:rxion002@gold.ac.uk
 
